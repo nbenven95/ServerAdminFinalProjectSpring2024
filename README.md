@@ -4,3 +4,6 @@ I opted to implement my application using Node.js for simplicity and ease of man
 
 For now, I am focusing more on the cloud deployment aspect and less on the functionality of the
 application, but I plan to add more in the future when time permits.
+
+## Resources
+[Deploy a Node.js web app in Azure](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=linux&pivots=development-environment-vscode)
