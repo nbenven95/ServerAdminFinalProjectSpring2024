@@ -6,4 +6,5 @@ For now, I am focusing more on the cloud deployment aspect and less on the funct
 application, but I plan to add more in the future when time permits.
 
 ## Resources
-[Deploy a Node.js web app in Azure](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=linux&pivots=development-environment-vscode)
+Microsoft Documentation: [Deploy a Node.js web app in Azure](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=linux&pivots=development-environment-vscode)
+YouTube Tutorial: [How to Set Up a Node.js Project - The Coding Train](https://www.youtube.com/watch?v=wM3TEvQn2hw&ab_channel=TheCodingTrain)
