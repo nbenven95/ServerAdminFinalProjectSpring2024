@@ -10,6 +10,9 @@ var http = require('http');
 
 /**
  * Get port from environment and store in Express.
+ * NOTE: For this app to run in Azure, it must listen on the port provided by the PORT environment variable
+ *       Because this is a template project, it auto-generated this script to listen on either port 3000,
+ *       which is used locally, or process.env.PORT, which is what we want for Azure.
  */
 
 var port = normalizePort(process.env.PORT || '3000');
